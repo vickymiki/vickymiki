@@ -2,7 +2,7 @@
 
 
 
-I am **Vikrant Gajare**, a graduate student at **Stevens Institute of Technology** 🎓, pursuing masters in Computer science. <br> For my academics I have focused my study in **Machine Learning**.
+I am **Vikrant**, a graduate student at **Stevens Institute of Technology** 🎓, pursuing masters in Computer science. <br> For my academics I have focused my study in **Machine Learning**.
 
 I am actively seeking full-time job opportunities in Data Science field.
 
